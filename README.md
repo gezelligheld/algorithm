@@ -10,8 +10,6 @@
 
 - backtrack 回溯
 
-- slidingWindow 滑动窗口
-
 - sort 排序
 
 - other 其他
