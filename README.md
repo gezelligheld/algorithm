@@ -10,9 +10,9 @@
 
 - backtrack 回溯
 
-- 栈&队列
+- stack-queue 栈&队列
 
-- 双指针问题
+- doublePointer 双指针问题
 
 - sort 排序
 
